@@ -1,0 +1,7 @@
+port: 1234
+dataPath: /var/lib/amorph
+initialNode:
+  ip: 192.168.1.10
+  port: 5678
+  encryptionKey: mysecretkey
+
